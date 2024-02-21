@@ -11,10 +11,7 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -29,8 +26,6 @@
 - 🔭 I’m currently working on **JS, TS ,React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
 - 📫 Feel free to reach me out **fernanda.moscoso5600@gmail.com**
 
